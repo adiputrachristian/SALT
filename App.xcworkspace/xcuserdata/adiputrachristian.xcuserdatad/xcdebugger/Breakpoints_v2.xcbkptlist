@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F9350ED2-0CBB-4191-8D93-6EFAE060E3B3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F33394AB-B135-4572-9FCC-8192A6A1B3A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetworkKit/NetworkKit/APIMappingProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "mapResponseUser(_:onSuccess:onFailure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F33394AB-B135-4572-9FCC-8192A6A1B3A6 - 361785edfb45765e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "658">
+               </Location>
+               <Location
+                  uuid = "F33394AB-B135-4572-9FCC-8192A6A1B3A6 - 4e4d26bff12b02e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "F33394AB-B135-4572-9FCC-8192A6A1B3A6 - f4a21bf9b258ecc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT%202/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "658">
+               </Location>
+               <Location
+                  uuid = "F33394AB-B135-4572-9FCC-8192A6A1B3A6 - 8cf8b8abb836987e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT%202/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19F85074-65B9-4216-8947-55ACEB8E6A0E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetworkKit/NetworkKit/APIMappingProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "mapResponseUser(_:onSuccess:onFailure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "19F85074-65B9-4216-8947-55ACEB8E6A0E - 361785edfb4576da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1179">
+               </Location>
+               <Location
+                  uuid = "19F85074-65B9-4216-8947-55ACEB8E6A0E - c0d6a6e7ea7d1852"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "19F85074-65B9-4216-8947-55ACEB8E6A0E - f4a21bf9b258ed55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT%202/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "1179">
+               </Location>
+               <Location
+                  uuid = "19F85074-65B9-4216-8947-55ACEB8E6A0E - 26338f3a36083dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT%202/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3375EAE2-E8B6-4D1F-BFD7-EEF6C401F5D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NetworkKit/NetworkKit/APIMappingProtocol.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "mapResponseUser(_:onSuccess:onFailure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3375EAE2-E8B6-4D1F-BFD7-EEF6C401F5D0 - 361785edfb45704d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "2235">
+               </Location>
+               <Location
+                  uuid = "3375EAE2-E8B6-4D1F-BFD7-EEF6C401F5D0 - a587a7b7a0c14a87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "3375EAE2-E8B6-4D1F-BFD7-EEF6C401F5D0 - f4a21bf9b258eef8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT%202/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "2235">
+               </Location>
+               <Location
+                  uuid = "3375EAE2-E8B6-4D1F-BFD7-EEF6C401F5D0 - 673239a3e9dcd432"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in NetworkKit.APIMappingProtocol.mapResponseUser(_: Moya.Response, onSuccess: Swift.Optional&lt;(Swift.String) -&gt; ()&gt;, onFailure: Swift.Optional&lt;(Swift.Error) -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "NetworkKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adiputrachristian/Documents/SALT%202/NetworkKit/NetworkKit/APIMappingProtocol.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5AC4762-C6C3-46DC-841E-59C772B57CF1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Login/Login/Login/LoginPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "didSuccessLogin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5C56C08-4090-4BF2-8E91-3237CCA055EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Login/Login/Login/LoginWireframe.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "goToHome()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
